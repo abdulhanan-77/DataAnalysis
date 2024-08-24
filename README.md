@@ -38,8 +38,8 @@ To run the notebooks, you'll need the following Python packages:
 
 You can install the necessary packages using pip:
 
-```bash
 pip install numpy pandas matplotlib
+
 Usage
 Feel free to use the notebooks as a reference for your own data analysis projects. You can adapt the code and techniques to fit different datasets or analysis goals. If you have any questions or suggestions, please open an issue or submit a pull request.
 
